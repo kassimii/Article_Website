@@ -36,8 +36,9 @@ function UserExperience() {
             StanCASA is a project for uiversity, which I implemented with other
             3 colleagues. The project aims to solve the electricity waste
             problem and to offer the user an easier way to adapt the amount of
-            brightness in a room. I was supposed to conect the Arduino board to
-            a laptop, in order to receive data from some sensors.
+            brightness in a room. I connected the Arduino board to a laptop to
+            store the data received from the sensors and also created the
+            Android app that controlled the system.
           </p>
         </div>
       </div>
