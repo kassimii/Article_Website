@@ -10,6 +10,7 @@ function App() {
       <NavbarCustom />
       <Switch>
         <Route path="/" exact component={ProfileInfo} />
+        <Route path="/my-profile" exact component={ProfileInfo} />
         <Route path="/profile" exact component={ProfileInfo} />
         <Route path="/search" exact component={SearchPage} />
       </Switch>
