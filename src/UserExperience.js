@@ -33,7 +33,7 @@ function UserExperience() {
             dog, buying groceries etc.
           </p>
           <p>
-            StanCASA is a project for uiversity, which I implemented with other
+            StanCASA is a project for university, which I implemented with other
             3 colleagues. The project aims to solve the electricity waste
             problem and to offer the user an easier way to adapt the amount of
             brightness in a room. I connected the Arduino board to a laptop to
