@@ -1,0 +1,1 @@
+{"version":3,"sources":["NavbarCustom.css"],"names":[],"mappings":"AAAA,aACE,wBACF,CAEA,SACE,UAAY,CACZ,eAAgB,CAChB,sCACF","file":"main.aab00007.chunk.css","sourcesContent":[".navbarStyle {\r\n  background-color: #cf56a1;\r\n}\r\n\r\n.navText {\r\n  color: white;\r\n  font-weight: 700;\r\n  font-family: Arial, Helvetica, sans-serif;\r\n}\r\n"]}
